@@ -21,5 +21,8 @@ A simple full stack SPA web application for recording travel memories or memorie
 - [X] Add a like button (no user likes)
 - [ ] Make the Post component look better
 - [ ] Add a like functionality (1 like on Post per user)
+- [ ] Search functionality
+- [ ] Tag based search
+- [X] Add mobile responsiveness
 - [ ] Add JWT and Google OAuth
 - [ ] Deploy (Maybe?)
